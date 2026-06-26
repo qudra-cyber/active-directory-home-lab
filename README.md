@@ -58,6 +58,11 @@ Examples:
 * Identity Administration
 * Windows Server Administration
 
+
+## Active Directory Domain Structure
+
+![Domain Structure](QUDRATECH.LOCAL)
+
 ## Screenshots
 
 Screenshots are available in the screenshots folder.
